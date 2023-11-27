@@ -4,6 +4,9 @@
  * Description: Java AWT GUI application for calculating student averages.
  *              Features a simple interface to input Java, Python, and C++ marks,
  *              with submission and clearing functionality.
+
+ * Copyright (c) 2023 Vitthal Humbe
+ * All rights reserved.
  */
 
 import java.awt.*;
