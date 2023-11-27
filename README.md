@@ -13,8 +13,4 @@ Java AWT GUI application for calculating student averages. This private reposito
 - Click "Submit" to calculate the average.
 - Use "Clear" to reset input fields.
 
-## Author
-
-- **Vitthal Humbe**
-  - Email: vitthal.3454@gmail.com
-
+For any inquiries, contact **Vitthal Humbe** at vitthal.3454@gmail.com.
